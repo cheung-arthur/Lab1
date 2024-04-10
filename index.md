@@ -12,7 +12,7 @@ I've also had some research experience in a **gastroenterology** lab as a **mach
 ### Random Shenanigans
 Below is a picture of my dog cos I miss him
 ![Doggo](IMG-20210215-WA0005.JPG)
-Or click this [link](https://github.com/cheung-arthur/Lab1/IMG-20210215-WA0005.JPG)
+Or click this [link](https://github.com/cheung-arthur/Lab1/blob/main/IMG-20210215-WA0005.JPG)
 
 My personal water fountain tier list:
 1. Elkay EZH2O LZS8WSLK Filtered Drinking Fountain with Bottle-Filling Station
