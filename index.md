@@ -11,8 +11,8 @@ I've also had some research experience in a **gastroenterology** lab as a **mach
 
 ### Random Shenanigans
 Below is a picture of my dog cos I miss him
-![Doggo](Doggo.jpg)
-Or click this (link)[] 
+![Doggo](IMG-20210215-WA0005.JPG)
+Or click this [link](https://github.com/cheung-arthur/Lab1/IMG-20210215-WA0005.JPG)
 
 My personal water fountain tier list:
 1. Elkay EZH2O LZS8WSLK Filtered Drinking Fountain with Bottle-Filling Station
@@ -26,7 +26,7 @@ Things I did today:
 - [ ] Showered
   
 When prof asks me if I would fail this class: "Nah, I'd win."
-![Nah](Idwin.jpg)
+![Nah](avatars-h0Vtx435qgeVhU6U-NyCfeg-t240x240.jpeg)
 
-(Free VBucks Here!!!)[https://www.youtube.com/watch?v=dQw4w9WgXcQ]
+[Free VBucks Here!!!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 [Read it all again](#arthur's-user-page)
